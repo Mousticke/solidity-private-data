@@ -1,0 +1,15 @@
+{
+  "name": "solidity-private-data",
+  "version": "1.0.0",
+  "description": "When we think about private data in general, we think that any program or software interacting with our smart-contract cannot access to this variable.\r Usually, when we have a private variable in an OOP, we use a getter and a setter for manipulating or reading the data.\r Sometimes, we can see that the private visibility is used to store some sensitive data and we don't want anyone to read that data.",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "truffle develop"
+  },
+  "author": "",
+  "license": "ISC"
+}
